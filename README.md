@@ -1,5 +1,7 @@
-n8n Automations Repository
+n8n Automations
+
 Overview
+
 This repository hosts a collection of reusable automation workflows built with n8n, an open-source workflow automation platform. It aims to provide efficient, scalable solutions for common tasks and integrations.
 Purpose
 The workflows streamline operations, integrate APIs, automate repetitive tasks, and boost productivity. Each is designed to be:
